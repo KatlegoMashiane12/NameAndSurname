@@ -1,0 +1,13 @@
+C:\Users\Katlego\Desktop\FA2\NameAndSurname\bin\Debug\netcoreapp3.1\NameAndSurname.exe
+C:\Users\Katlego\Desktop\FA2\NameAndSurname\bin\Debug\netcoreapp3.1\NameAndSurname.deps.json
+C:\Users\Katlego\Desktop\FA2\NameAndSurname\bin\Debug\netcoreapp3.1\NameAndSurname.runtimeconfig.json
+C:\Users\Katlego\Desktop\FA2\NameAndSurname\bin\Debug\netcoreapp3.1\NameAndSurname.runtimeconfig.dev.json
+C:\Users\Katlego\Desktop\FA2\NameAndSurname\bin\Debug\netcoreapp3.1\NameAndSurname.dll
+C:\Users\Katlego\Desktop\FA2\NameAndSurname\bin\Debug\netcoreapp3.1\NameAndSurname.pdb
+C:\Users\Katlego\Desktop\FA2\NameAndSurname\obj\Debug\netcoreapp3.1\NameAndSurname.csprojAssemblyReference.cache
+C:\Users\Katlego\Desktop\FA2\NameAndSurname\obj\Debug\netcoreapp3.1\NameAndSurname.AssemblyInfoInputs.cache
+C:\Users\Katlego\Desktop\FA2\NameAndSurname\obj\Debug\netcoreapp3.1\NameAndSurname.AssemblyInfo.cs
+C:\Users\Katlego\Desktop\FA2\NameAndSurname\obj\Debug\netcoreapp3.1\NameAndSurname.csproj.CoreCompileInputs.cache
+C:\Users\Katlego\Desktop\FA2\NameAndSurname\obj\Debug\netcoreapp3.1\NameAndSurname.dll
+C:\Users\Katlego\Desktop\FA2\NameAndSurname\obj\Debug\netcoreapp3.1\NameAndSurname.pdb
+C:\Users\Katlego\Desktop\FA2\NameAndSurname\obj\Debug\netcoreapp3.1\NameAndSurname.genruntimeconfig.cache
