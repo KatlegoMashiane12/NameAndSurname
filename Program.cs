@@ -13,7 +13,7 @@ namespace NameAndSurname
             String LastName = Console.ReadLine();
 
             Console.WriteLine("Hello {0}, {1}", FirstName, LastName);
-            //Console.WriteLine(S);
+            //Console.WriteLine(Sssss);
         }
     }
 }
